@@ -1,0 +1,27 @@
+.wrapper {
+    position: absolute;
+    display: flex;
+    height: 80vh;
+    width: 80%;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.row {
+    display: flex;
+    height: 10%;
+}
+
+p {
+    display: block;
+    border: 1px solid #000;
+    width: 10%;
+    flex-flow: row wrap;
+    background-color: rgb(204, 198, 198);
+}
+
+p:nth-of-type(2n + 0) {
+    background-color: rgb(134, 131, 131);
+}
