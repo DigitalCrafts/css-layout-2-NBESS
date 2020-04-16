@@ -17,7 +17,8 @@
 p {
     display: block;
     border: 1px solid #000;
-    width: 10%;
+    width: 40px;
+    height: 40px;
     flex-flow: row wrap;
     background-color: rgb(204, 198, 198);
 }
