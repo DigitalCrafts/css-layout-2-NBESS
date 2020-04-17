@@ -57,12 +57,16 @@
 
 .part3d{
     height: 10%;
+    background-color: white;
+    border: 1px solid red;
 }
 .part3e{
     height: 20%;
+    background-color: rgb(81, 115, 228);
 }
 .part3f{
     height: 20%;
+    background-color: red;
 }
 
 .has-bottom-margin {
