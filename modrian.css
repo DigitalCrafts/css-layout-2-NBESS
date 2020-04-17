@@ -1,0 +1,62 @@
+.frame {
+    height: 60vw;
+    border: 8px solid #444;
+    background-color: #444;
+    display: flex;
+}
+
+.outter-left,
+.outter-right {
+    width: 50%;
+    display: flex;
+    border: 1px solid red;
+
+}
+
+.part1 {
+    width: 70%;
+    margin: 4px;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.part1a {
+    width: 30%;
+    margin: 4px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+}
+
+.part3a{
+    height: 10%;
+    background-color: rgb(249, 226, 57);
+    border: 0 none;
+}
+.part3b{
+    height: 20%;
+    background-color: rgb(249, 226, 57);
+}
+
+.part3c{
+    height: 20%;
+    border: 0 none;
+}
+.part3d{
+    height: 10%;
+}
+.part3e{
+    height: 20%;
+}
+.part3f{
+    height: 20%;
+}
+
+.has-bottom-border {
+    margin: 4px;
+}
+
+.has-right-border {
+    margin: 4px;
+}
