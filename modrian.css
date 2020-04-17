@@ -18,6 +18,47 @@
     margin: 4px;
     height: 100%;
     border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.part2a-1 {
+    height: 10%;
+    border: 0 none;
+    display: flex;
+}
+
+.part2a-1l {
+    width: 30%;
+    background-color: white;
+    border: 0 none;
+}
+
+.part2a-1r {
+    width: 70%;
+    background-color: white;
+    border: 0 none;
+}
+
+.part2a-2 {
+    height: 90%;
+    border: 0 none;
+}
+
+.part2a {
+    height: 50%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.part2b {
+    height: 50%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
 }
 
 .part1a {
